@@ -29,7 +29,7 @@ questions = [
         "Which language was used to create fb?", "French", "JavaScript", "Python", "None", 1
     ],
     [
-        "Which language was used to create fb?", "French", "JavaScript", "Python", "None", 1
+        "Which language was used to create whatsapp?", "French", "JavaScript", "Python", "None", 1
     ],
 ]
 
